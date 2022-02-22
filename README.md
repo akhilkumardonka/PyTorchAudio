@@ -9,6 +9,7 @@ Foundations of audio signal processing, Deep learning on acoustics, Beginner lev
 * [Learning from Audio: Wave Forms](https://towardsdatascience.com/learning-from-audio-wave-forms-46fc6f87e016)
 * [Sound Classification using Deep Learning](https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7)
 * [Audio Deep Learning Made Simple ](https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504)
+* [Audio Feature Extraction](https://devopedia.org/audio-feature-extraction)
 
 ## Deep Learning
 * [Dive into Deep Learning ](https://d2l.ai/)
