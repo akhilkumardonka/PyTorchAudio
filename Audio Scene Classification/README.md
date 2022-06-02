@@ -6,6 +6,7 @@ PyTorch Implementation of Deep Neural Network Training | DCASE2020 10 Class Scen
 #### Dataset Downloading and Extraction
 
 ```
+$ cd ~
 $ git clone https://github.com/akhilkumardonka/RobotAudition.git
 $ cd ~/RobotAudition/Audio\ Scene\ Classification/datasets
 $ python downloader.py
