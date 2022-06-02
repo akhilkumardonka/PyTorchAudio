@@ -12,7 +12,7 @@ python downloader.py
 python extracter.py
 ```
 
-#### Directory Structure
+##### Directory Structure
 
     .
     ├── datasets
@@ -24,6 +24,14 @@ python extracter.py
     │           ├── fold1_train.csv
     ├── training                    
     
+#### Training Codes
+Creating pytorch dataset and batch iterators, storing dataset into pickle files for later use, model definations and training epochs
+
+```
+cd ..
+cd ./training
+python train.py
+```
 
 ### References
 
