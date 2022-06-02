@@ -12,6 +12,19 @@ python downloader.py
 python extracter.py
 ```
 
+#### Directory Structure
+
+    .
+    ├── datasets
+    │   ├── TAU-urban-acoustic-scenes-2020-mobile-development
+    │       ├── audio                                                 # Contains all wav files
+    │       ├── meta.csv
+    │       ├── evaluation_setup                                      # Contains train/validation split
+    │           ├── fold1_evaluate.csv
+    │           ├── fold1_train.csv
+    ├── training                    
+    
+
 ### References
 
 | Source | Link |
