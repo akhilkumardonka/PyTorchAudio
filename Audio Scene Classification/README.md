@@ -25,7 +25,7 @@ python extracter.py
     ├── training                    
     
 #### Training Codes
-Creating pytorch dataset and batch iterators, storing dataset into pickle files for later use, model definations and training epochs
+Creating pytorch dataset and batch iterators, storing dataset into pickle files for later use, model definations, training epochs and saving loss plots & model for deployment
 
 ```
 cd ..
