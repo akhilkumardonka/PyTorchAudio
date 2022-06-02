@@ -140,7 +140,7 @@ if __name__ == "__main__":
     train(model, loss_fn, train_iter, valid_iter, EPOCHS, optimizer, train_losses, valid_losses, device)
 
     # save model and loss plots
-    plotHelpers.lossPlot(train_losses, valid_losses)
+    PlotHelpers.lossPlot(train_losses, valid_losses)
     
     with open('asc10resnet.pth','wb') as f:
         torch.save(model, f)
