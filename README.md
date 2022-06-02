@@ -5,8 +5,6 @@ Foundations of audio signal processing, Deep learning on acoustics, Beginner lev
 * [Dive into Deep Learning ](https://d2l.ai/)
 
 ## Github Repos
-* [Machine Hearing](http://github.com/jonnor/machinehearing/)
-* [Deep Learning For Audio With Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
 * [Audio Signal Processing For ML](https://github.com/musikalkemist/AudioSignalProcessingForML)
 
 ## Youtube Channels & Playlist
