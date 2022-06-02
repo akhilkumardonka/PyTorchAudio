@@ -14,7 +14,7 @@ $ python extracter.py
 
 ### References
 
-| Source | README |
+| Source | Link |
 | ------ | ------ |
 | Audio Classification using Librosa and Pytorch | https://medium.com/@hasithsura/audio-classification-d37a82d6715 |
 | PyTorch Official Documentation | https://pytorch.org/tutorials/ |
